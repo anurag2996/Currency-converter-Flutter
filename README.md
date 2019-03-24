@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![](app.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
